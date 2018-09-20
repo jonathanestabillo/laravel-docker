@@ -1,2 +1,2 @@
-# nginx-laravel-redis-mysql-dockerize
+# laravel-docker
 Simple dockerized development infra for Laravel development.
